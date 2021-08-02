@@ -22,4 +22,4 @@
 
 1. yarn 安装，或者 npm install 安装依赖包
 2. yarn electron:dev 或者 npm run electron:dev 启动 electron
-3. yarn electron:exe 会先完成编译 vue 文件后，再去执行 electron 打包程序
+3. yarn electron:exe 会先完成编译 vue 文件后，再去执行 electron 打包程序，同时在根目录生成 out 文件夹
