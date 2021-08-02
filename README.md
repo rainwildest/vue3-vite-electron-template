@@ -1,6 +1,6 @@
 # Vue 3 + Typescript + Vite
 
-通过 Vue3 + Vite 的模板改造成 Electron 的模板，同时使用 Eslint 和 Prettier 作为代码格式管理工具；该项目是使用 JSX 语法来开发，不是使用传统的.vue 模板开发
+通过 Vue3 的模板改造成 Electron 的模板，同时使用 Eslint 和 Prettier 作为代码格式管理工具；该项目是使用 JSX 语法来开发，不是使用传统的.vue 模板开发
 
 # 目录结构
 
